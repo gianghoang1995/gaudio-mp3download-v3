@@ -1,6 +1,6 @@
 {
-"version_code":1,
-  "version": "1.0.1",
-  "require_update": "false",
+"version_code":3,
+  "version": "1.0.3",
+  "require_update": "true",
   "disable_online": "false"
 }
